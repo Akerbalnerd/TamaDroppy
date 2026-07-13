@@ -1,8 +1,7 @@
 # TamaDroppy
 Original Digital Egg Drop Egg and code by Stefan Hermann aka CNC Kitchen
 Small, purpose built circuit board for easier assembly made by Ruzgar Kilicli
-## BOM
-Some of these links might be affiliate links (currently incomplete):
+## BOM (currently incomplete)
 - [Seeed Studio XIAO nRF52840 (Sense)](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010469/16652896)
 - [ADXL375 - High G Accelerometer (+-200g)](https://www.digikey.com/en/products/detail/analog-devices-inc/ADXL375BCCZ-RL7/4376370)
 - [0.66 inch OLED LCD Dispaly Module 64X48](https://s.click.aliexpress.com/e/_Dedwi8d)
@@ -13,5 +12,5 @@ Some of these links might be affiliate links (currently incomplete):
 ## License
 Creative Commons Attribution Non Commercial Share Alike 4.0 International
 Completely free for any educational purpose!
-If you want to make a product out of it, please contact [Stefan Hermann](https://github.com/CNCKitchen) as they hold the original license for the code.
+If you want to make a product out of this, please contact [Stefan Hermann](https://github.com/CNCKitchen) as they hold the original license for the code.
 
