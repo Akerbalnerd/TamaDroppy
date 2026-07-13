@@ -13,5 +13,5 @@ Some of these links might be affiliate links:
 ## License
 Creative Commons Attribution Non Commercial Share Alike 4.0 International
 Completely free for any educational purpose!
-If you want to make a product out of it, please contact [Stefan Hermann](https://github.com/CNCKitchen) as they hold the original license.
+If you want to make a product out of it, please contact [Stefan Hermann](https://github.com/CNCKitchen) as they hold the original license for the code.
 
