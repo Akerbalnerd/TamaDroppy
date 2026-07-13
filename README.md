@@ -1,5 +1,6 @@
 # TamaDroppy
-Digital Egg Drop Egg by Stefan Hermann aka CNC Kitchen
+Original Digital Egg Drop Egg and code by Stefan Hermann aka CNC Kitchen
+Small, purpose built circuit board for easier assembly made by Ruzgar Kilicli
 ## BOM
 Some of these links might be affiliate links:
 - [Seeed Studio XIAO nRF52840 (Sense)](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010469/16652896)
@@ -12,5 +13,5 @@ Some of these links might be affiliate links:
 ## License
 Creative Commons Attribution Non Commercial Share Alike 4.0 International
 Completely free for any educational purpose!
-If you want to make a product out of it, please contact me.
+If you want to make a product out of it, please contact [Stefan Hermann](https://github.com/CNCKitchen) as they hold the original license.
 
